@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Salesforce MVP and 20x Salesforce Certified Application Architect <br>I am founder of blog www.salesforcebolt.com and YouTube SalesforceBolt where I am sharing videos related to Salesforce Lightning, Lightning Web Components, Integrations, Javascript etc.<br>
+I am a Salesforce MVP and 21x Salesforce Certified Application Architect <br>I am founder of blog www.salesforcebolt.com and YouTube SalesforceBolt where I am sharing videos related to Salesforce Lightning, Lightning Web Components, Integrations, Javascript etc.<br>
 
 
 ## 🌐 Socials:
